@@ -48,7 +48,7 @@ On the backend, I work with Node.js and MongoDB.
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/naimurrahman00/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahedi-hasan-5294813a2" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
   <a  href="https://fb.com/https://www.facebook.com/mahedi.mahedihasanshowrov/" target="_blank">
