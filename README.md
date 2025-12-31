@@ -21,7 +21,7 @@ On the backend, I work with Node.js and MongoDB.
 - 🌟 Language: **JavaScript**
 - 🌱 I’m currently learning **Next.js & TypeScript**
 - 🤝 I'm enthusiastic about collaborating on innovative front-end projects
-- 📫 Reach me at **naimurwebdev@gmail.com**
+- 📫 Reach me at **mahedishowrov@gmail.com**
 
 <hr/>
 
