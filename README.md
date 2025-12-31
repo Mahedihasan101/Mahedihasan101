@@ -1,4 +1,4 @@
-![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/main/banner.png)
+![logo](https:/[/github.com/NaimurRahman00/NaimurRahman00/blob/main/banner.png](https://github.com/Mahedihasan101/Mahedihasan101/blob/main/banner%20img))
 
 <hr/>
 
