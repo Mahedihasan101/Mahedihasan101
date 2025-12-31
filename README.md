@@ -1,4 +1,4 @@
-![Mahedi Hasan Banner](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/banner.png)
+![logo](https://github.com/NaimurRahman00/NaimurRahman00/blob/main/banner.png)
 
 <hr/>
 
