@@ -3,7 +3,7 @@
 
 <div>
 <h1>:eyes: About me</h1>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat](https://chatgpt.com/backend-api/estuary/content?id=file_000000002770720789af2a3b7a43bda5&ts=490880&p=fs&cid=1&sig=be1ca75f30c862cb6307205c38d7a232aae6e678f06065f05bb4adfb7bec4126&v=0)" alt="naimurrahman00" /> </p>
+<p align="left"> <img src="[[https://komarev.com/ghpvc/?username=naimurrahman00&label=Profile%20views&color=0e75b6&style=flat](https://chatgpt.com/backend-api/estuary/content?id=file_000000002770720789af2a3b7a43bda5&ts=490880&p=fs&cid=1&sig=be1ca75f30c862cb6307205c38d7a232aae6e678f06065f05bb4adfb7bec4126&v=0)](https://chatgpt.com/backend-api/estuary/content?id=file_00000000367c71fabc87f7857862cd80&ts=490880&p=fs&cid=1&sig=cf7841e7c0a6450d31aff100ca34004a1812d62fddbb16b441ec8a64635199b3&v=0)" alt="naimurrahman00" /> </p>
 </div>
 
 <p>I'm an enthusiastic Junior Frontend Developer from Dhaka, Bangladesh.</p>
